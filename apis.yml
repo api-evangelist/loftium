@@ -30,7 +30,7 @@ x-status: acquired
 x-acquired-by: flyhomes
 x-acquired-date: '2023-02'
 x-domain-status: redirects-offsite
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
